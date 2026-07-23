@@ -15,18 +15,6 @@
 
 ---
 
-## 🖼️ Visual Workflow
-
-<p align="center">
-  <img src="assets/before_running.png" width="48%" alt="Before Running Tool"/>
-  <img src="assets/after_running.png" width="48%" alt="After Running Tool"/>
-</p>
-<p align="center">
-  <i>Fig 1: Automated extraction of affected cadastral parcels and progressive streaming overlay.</i>
-</p>
-
----
-
 ## ✨ Key Features
 
 - ⚡ **Multi-Corridor Batch Queue:** Process multiple transmission line corridors simultaneously with progressive line-by-line streaming.
