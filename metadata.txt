@@ -1,0 +1,15 @@
+[general]
+name=Cadastral Parcel Extractor
+qgisMinimumVersion=3.34
+description=Identifies all cadastral land parcels affected by transmission line safety corridors using native QGIS processing algorithms.
+version=1.0.0
+author=Power Corridor Solutions
+email=support@powercorridor.org
+about=Automated PyQGIS plugin for calculating transmission line corridor buffers, auto-detecting UTM projections, extracting affected cadastral land parcels, generating CSV reports, and merging outputs.
+tracker=https://github.com/powercorridor/plugin/issues
+repository=https://github.com/powercorridor/plugin
+category=Vector
+tags=power,transmission line,cadastral,buffer,corridor,land acquisition,parcels,utm
+experimental=False
+deprecated=False
+icon=icon.png
